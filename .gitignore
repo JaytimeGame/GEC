@@ -1,3 +1,8 @@
+# Platform IO
+*.pio
+*.clang_complete
+*.gcc-flags.json
+
 # Prerequisites
 *.d
 
