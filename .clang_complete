@@ -1,0 +1,25 @@
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/include
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/src
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/GEC_Functions
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/ATH20_Arduino_Library
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/Servo/src
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/Adafruit-TFT-LCD
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/Adafruit TouchScreen
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/Adafruit GFX Library
+-ID:/Documents/Personal/DIY/GEC/Program/GEC/.pio/libdeps/megaatmega2560/Adafruit BusIO
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/cores/arduino
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/variants/mega
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/libraries/HID/src
+-IC:/Users/jimpi/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+-IC:/Users/jimpi/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include
+-IC:/Users/jimpi/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed
+-IC:/Users/jimpi/.platformio/packages/toolchain-atmelavr/avr/include
+-DPLATFORMIO=50101
+-DARDUINO_AVR_MEGA2560
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10808
+-D__AVR_ATmega2560__
