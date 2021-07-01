@@ -16,6 +16,6 @@ This program need to be run on an Arduino Mega 2560. To program to Arduino the u
   - 2 Yellow
   - 1 Green
   - 1 Red
-  - 1 Of of your choice
+  - 1 of your choice
 - 2 Push Buttons
 - Buzzer
