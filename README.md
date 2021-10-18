@@ -8,8 +8,6 @@ This program need to be run on an Arduino Mega 2560. To program to Arduino the u
 
 [![Video Demonstration](https://img.youtube.com/vi/9JZV6ifuXhE/0.jpg)](https://www.youtube.com/watch?v=9JZV6ifuXhE)
 
-https://www.youtube.com/watch?v=9JZV6ifuXhE
-
 
 
 #### Material List
