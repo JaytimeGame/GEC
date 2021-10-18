@@ -4,6 +4,10 @@ This program is called, Greenhouse Environment Control (or GEC).  This program C
 
 This program need to be run on an Arduino Mega 2560. To program to Arduino the use of the Atom.io extension, PlatformIO is necessary.
 
+#### Video Demonstration
+
+[](https://www.youtube.com/watch?v=9JZV6ifuXhE)
+
 #### Material List
 
 - Arduino Mega 2560
@@ -19,3 +23,5 @@ This program need to be run on an Arduino Mega 2560. To program to Arduino the u
   - 1 of your choice
 - 2 Push Buttons
 - Buzzer
+
+Note: List is not complete.
