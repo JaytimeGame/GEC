@@ -2,7 +2,7 @@
 
 This program is called, Greenhouse Environment Control (or GEC).  This program Can control Dampers, Fans, and water sprayer to control the temperature and the humidity inside of a greenhouse. 
 
-This program need to be run on an Arduino Mega 2560. To program to Arduino the use of the Atom.io extension, PlatformIO is necessary.
+This program need to be run on an Arduino Mega 2560. To program the Arduino the use of Atom.io and the extension PlatformIO, is necessary.
 
 #### Video Demonstration
 
