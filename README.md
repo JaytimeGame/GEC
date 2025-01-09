@@ -6,7 +6,7 @@ This program need to be run on an Arduino Mega 2560. To program the Arduino the 
 
 #### Video Demonstration
 
-[![Video Demonstration](https://img.youtube.com/vi/9JZV6ifuXhE/0.jpg)](https://www.youtube.com/watch?v=9JZV6ifuXhE)
+[![Video Demonstration](https://img.youtube.com/vi/9w2lmAMenRs/0.jpg)](https://youtu.be/9w2lmAMenRs)
 
 
 
